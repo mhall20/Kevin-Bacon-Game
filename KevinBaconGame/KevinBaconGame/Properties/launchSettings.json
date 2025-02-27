@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KevinBaconGame": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\redni\\Desktop\\CS\\DS\\hw09c\\hw09c\\imdb.top250.txt \"Harrison Ford\" Bob"
+    }
+  }
+}
